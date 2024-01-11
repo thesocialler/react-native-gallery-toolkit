@@ -7714,8 +7714,8 @@ range-parser@~1.2.1:
   resolved "https://registry.yarnpkg.com/range-parser/-/range-parser-1.2.1.tgz#3cf37023d199e1c24d1a55b84800c2f3e6468031"
 
 react-devtools-core@^4.6.0:
-  version "4.20.0"
-  resolved "https://registry.yarnpkg.com/react-devtools-core/-/react-devtools-core-4.20.0.tgz#49640f374bcf541cd86410d86c2cb07392005b33"
+  version "4.28.5"
+  resolved "https://registry.yarnpkg.com/react-devtools-core/-/react-devtools-core-4.28.5.tgz#c8442b91f068cdf0c899c543907f7f27d79c2508"
   dependencies:
     shell-quote "^1.6.1"
     ws "^7"
